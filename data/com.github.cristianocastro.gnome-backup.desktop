@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=GNOME Extensions Backup
+Comment=Backup e restauração de extensões do GNOME
+Exec=gnome-extensions-backup
+Icon=com.github.cristianocastro.gnome-backup
+Terminal=false
+Type=Application
+Categories=GTK;GNOME;Utility;System;
+Keywords=backup;extensions;gnome;restore;
+
