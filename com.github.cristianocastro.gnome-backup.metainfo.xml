@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>com.github.cristianocastro.gnome-backup</id>
+  <name>GNOME Extensions Backup</name>
+  <summary>Backup e restauração de extensões do GNOME Shell</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0+</project_license>
+  <developer_name>Cristiano Castro</developer_name>
+  
+  <description>
+    <p>
+      Ferramenta simples e intuitiva para fazer backup e restaurar suas extensões
+      do GNOME Shell e suas configurações.
+    </p>
+    <p>Recursos:</p>
+    <ul>
+      <li>Backup seletivo de extensões</li>
+      <li>Restauração completa com configurações</li>
+      <li>Interface moderna em GTK 4</li>
+      <li>Suporte a múltiplos backups</li>
+    </ul>
+  </description>
+  
+  <url type="homepage">https://github.com/cristianocastro/gnome-backup</url>
+  <url type="bugtracker">https://github.com/cristianocastro/gnome-backup/issues</url>
+  
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/cristianocastro/gnome-backup/main/screenshot.png</image>
+    </screenshot>
+  </screenshots>
+  
+  <releases>
+    <release version="1.0.0" date="2025-11-01">
+      <description>
+        <p>Versão inicial</p>
+      </description>
+    </release>
+  </releases>
+  
+  <content_rating type="oars-1.1" />
+</component>
+
