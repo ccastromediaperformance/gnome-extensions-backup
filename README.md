@@ -19,9 +19,9 @@ As extensões do GNOME personalizam e aumentam a produtividade do seu ambiente d
 4) Pode ser integrada em scripts ou cron jobs para backups automáticos.
 
 Requisitos
-> Python 3.x
-> Acesso ao diretório das extensões do GNOME (~/.local/share/gnome-shell/extensions/ ou /usr/share/gnome-shell/extensions/)
-> Dependências específicas listadas no arquivo requirements.txt (se houver)
+- Python 3.x
+- Acesso ao diretório das extensões do GNOME (~/.local/share/gnome-shell/extensions/ ou /usr/share/gnome-shell/extensions/)
+- Dependências específicas listadas no arquivo requirements.txt (se houver)
 
 Desenvolvimento e Contribuição
 Este projeto utiliza Flatpak/flatpak-builder no Fedora, facilitando a construção e distribuição da ferramenta. Contribuições são bem-vindas para melhorias e adaptações para outras distribuições.
